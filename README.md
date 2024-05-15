@@ -1,4 +1,4 @@
-# Out-of-control
+# Out of control
 This game was made under 48 hours for the [GMTK 2020 Game Jam](https://itch.io/jam/gmtk-2020). <br />
 The theme for the game jam was "Out of Control".
 
